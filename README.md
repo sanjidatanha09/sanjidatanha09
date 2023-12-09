@@ -4,7 +4,11 @@
 
 ## 💬Current Stats
 
+<div align = center>
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjidatanha09&theme=onedark)](https://git.io/streak-stats)
+
+</div>
 
 ## 📫Reach me out
 
@@ -16,10 +20,25 @@
 
 ## 🔭Technologies that I know
 
+<div align = center>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,mysql,react,nextjs,nodejs)](https://skillicons.dev)
 
 
+</div>
+
+
+
+
+
+
+
+
+
+
 ## Current Status
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -31,5 +50,6 @@
 - ⚡ Fun fact: ...
 
 
-<code>Use `code` in your Markdown file.</code>
+
+
 
