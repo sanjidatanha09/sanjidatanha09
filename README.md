@@ -6,7 +6,8 @@
 
 <div align = center>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjidatanha09&theme=onedark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjidatanha09&theme=panda)](https://git.io/streak-stats)
+
 
 </div>
 
