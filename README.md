@@ -2,13 +2,19 @@
 
 ![The San Juan Mountains are beautiful!](/images/IMG_20220414_125554.jpg "San Juan Mountains")
 
+## 💬Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjidatanha09&theme=onedark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjidatanha09&theme=onedark)](https://git.io/streak-stats)
 
+## 📫Reach me out
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,go,instagram,linkedin" />
+  </a>
+</p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-
+## 🔭Technologies that I know
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,mysql,react,nextjs,nodejs)](https://skillicons.dev)
 
